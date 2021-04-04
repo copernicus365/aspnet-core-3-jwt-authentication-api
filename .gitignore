@@ -1,3 +1,8 @@
+
+.vs/
+launchSettings.json
+*.csproj.user
+
 # Logs
 logs
 *.log
